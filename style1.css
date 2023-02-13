@@ -1,0 +1,76 @@
+.main{
+    display: flex;
+    text-align: right;
+    color: rgb(26, 47, 119);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-style: oblique;
+}
+#k{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.l{
+    height: 600px;
+    width: 1250px;
+    margin-right: 250px;
+    
+}
+a:hover {
+    background-color: rgb(34, 39, 34);
+  }
+#o{
+    width: 950px;
+}
+#t{
+    background-color: aquamarine;
+}
+#u{
+    background-color: aquamarine;
+}
+#v{
+    background-color: aquamarine;
+}
+.s{
+    text-align: right;
+    color: rgb(132, 77, 183);
+    font-size: 30px;
+   
+    background-color: rgb(199, 230, 132);
+    background-size: auto;
+}
+#b{
+    color: blueviolet;
+    /*background-color: rgb(253, 251, 254);*/
+}
+#e{
+    color: blueviolet;
+    /*background-color: rgb(255, 253, 255);*/
+}
+#d{
+    color: blueviolet;
+    /*background-color: rgb(251, 249, 251);*/
+}
+#c{
+    color: blueviolet;
+    /*background-color: rgb(254, 252, 254);*/
+}
+#p{
+    background-color: #e89bba;
+    background-size: 200px;
+    font-size: larger;
+}
+
+
+
+
+
+.ab{
+    background-color: aquamarine;
+    font-size: larger;
+}
+.abc{
+    font-size: large;
+}
+.r{
+    background-color: rgba(107, 204, 219, 0.411);
+}
